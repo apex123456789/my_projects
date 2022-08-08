@@ -1,2 +1,2 @@
 # my_projects
-Create a virtual environment with conda and all the packages to execute the file
+Create a virtual environment with conda and install all the packages to execute the files.
